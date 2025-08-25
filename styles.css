@@ -6,6 +6,13 @@ body {
   min-height: 100vh;
   font-family: sans-serif;
 }
+.navbar {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  align-items: center;
+  gap: 10px;
+}
 .navcontent {
   border-radius: 35px;
   padding: 10px 8px;
@@ -14,14 +21,7 @@ body {
   cursor: pointer;
   user-select: none;
 }
-.navbar {
-  display: flex;
-  justify-content: center;
-  height: 100%;
-  align-items: center;
-  gap: 10px;
-}
-
-p{
+title{
   text-align: center;
+  font-size: 32px;
 }
