@@ -4,7 +4,7 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  background: var(--background);
+  font-family: sans-serif;
 }
 .navcontent {
   border-radius: 35px;
@@ -20,4 +20,8 @@ body {
   height: 100%;
   align-items: center;
   gap: 10px;
+}
+
+p{
+  text-align: center;
 }
