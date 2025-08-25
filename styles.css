@@ -17,11 +17,17 @@ body {
   border-radius: 35px;
   padding: 10px 8px;
   font-size: 15px;
-  background: transparent;
   cursor: pointer;
   user-select: none;
 }
 .title{
   text-align: center;
   font-size: 32px;
+}
+a{
+  text-decoration: none:
+}
+fotter {
+  text-align: center;
+  background-color: #c0c0c0;
 }
