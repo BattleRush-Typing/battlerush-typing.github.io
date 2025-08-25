@@ -6,11 +6,18 @@ body {
   min-height: 100vh;
   background: var(--background);
 }
-.header {
+.navcontent {
   border-radius: 35px;
   padding: 10px 8px;
   font-size: 15px;
   background: transparent;
   cursor: pointer;
   user-select: none;
+}
+.navvar {
+  display: flex;
+  justify-content: center;
+  height: 100%;
+  align-items: center;
+  gap: 10px;
 }
